@@ -6,7 +6,9 @@ Dans cette leçon, nous découvrirons *React Hooks* et comment ils peuvent nou
 
 En termes simples, les React Hooks sont des fonctions qui nous permettent de gérer l'état interne des composants et de gérer les effets secondaires post-rendu directement à partir de nos composants de fonction. À l'aide de Hooks, nous pouvons déterminer ce que nous voulons montrer aux utilisateurs en déclarant à quoi devrait ressembler notre interface utilisateur en fonction de l'état.
 
-React propose un certain nombre de Hooks intégrés. Quelques-uns d'entre eux incluent [`useState()`](https://www.codecademy.com/resources/docs/react/hooks/useState), [`useEffect()`](https://www.codecademy.com/resources/docs/react/hooks/useEffect), [`useContext()`](https://www.codecademy.com/resources/docs/react/hooks/useContext), `useReducer()`et [`useRef()`](https://www.codecademy.com/resources/docs/react/hooks/useRef). Consultez [la liste complète](https://react.dev/reference/react) dans la documentation React.
+React propose un certain nombre de Hooks intégrés. Quelques-uns d'entre eux incluent [`useState()`](https://www.codecademy.com/resources/docs/react/hooks/useState), [`useEffect()`](https://www.codecademy.com/resources/docs/react/hooks/useEffect), [`useContext()`](https://www.codecademy.com/resources/docs/react/hooks/useContext), `useReducer()`et [`useRef()`](https://www.codecademy.com/resources/docs/react/hooks/useRef). 
+
+Consultez [la liste complète](https://react.dev/reference/react) dans la documentation React.
 
 Dans cette section, nous allons apprendre à :
 
